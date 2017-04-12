@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Preguntas rápidas</string>
+    <string name="instrucciones">Complete with the corect answer in each case according to the instructions.</string>
+    <string name="pregunta1">1. Mark all words referring to food.</string>
+    <string name="pregunta2">2. Mark everything appearing in the image.</string>
+    <string name="pregunta3A">3. Complete the sentence with the correct word.</string>
+    <string name="pregunta3B">En mi ciudad no ____ universidad.</string>
+    <string name="pregunta4A">4. Complete the sentence with the correct word.</string>
+    <string name="pregunta4B">Hay ____ mesa en la habitación.</string>
+    <string name="pregunta5A">5. Put the words in the correct order.</string>
+    <string name="pregunta5B">gato / simpático / es / tu / no</string>
+    <string name="pregunta6A">6. Put the words in the correct order.</string>
+    <string name="pregunta6B">café / no / amigo / le / a / gusta / mi / el</string>
+    <string name="enviar">Submit and grade</string>
+    <string name="pregunta1respuesta1">arroz</string>
+    <string name="pregunta1respuesta2">mesa</string>
+    <string name="pregunta1respuesta3">dinero</string>
+    <string name="pregunta1respuesta4">plátano</string>
+    <string name="pregunta1respuesta5">zanahoria</string>
+    <string name="pregunta2respuesta1">agua</string>
+    <string name="pregunta2respuesta2">árbol</string>
+    <string name="pregunta2respuesta3">cuchara</string>
+    <string name="pregunta2respuesta4">luna</string>
+    <string name="pregunta2respuesta5">nube</string>
+    <string name="pregunta3respuesta1">tiene</string>
+    <string name="pregunta3respuesta2">hay</string>
+    <string name="pregunta3respuesta3">está</string>
+    <string name="pregunta4respuesta1">un</string>
+    <string name="pregunta4respuesta2">una</string>
+    <string name="pregunta4respuesta3">el</string>
+    <string name="pregunta4respuesta4">la</string>
+    <string name="hint">Write your answer here</string>
+    <string name="descr_image">Refer to this image to complete this question.</string>
+</resources>
